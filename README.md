@@ -27,7 +27,7 @@ When installed as a user app, you can right click a message to fix its embed or 
 - [Report a bug](https://github.com/k9thegoat/limitless-public)
 - [Request a new feature](https://github.com/k9thegoat/limitless-public)
 - [Contribute to translations](https://github.com/k9thegoat/limitless-public)
-- [Contact me on Discord](https://discord.com/invite/FTBQWCsVvq) (my username is @k9thegoatt)
+- [Contact me on Discord](https://discord.com/aarH2Mc5Dy) (my username is @k9thegoatt)
 
 ## Motive
 
