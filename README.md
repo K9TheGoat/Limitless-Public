@@ -12,7 +12,7 @@
 
 # K9's Little Helper
 
-Official website: <Coming Soon!>
+Official website: [Coming Soon!](https://github.com/k9thegoat/limitless-public)
 
 ## Add Bot
 
