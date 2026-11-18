@@ -36,7 +36,7 @@ K9's Little Helper is licensed under the **GNU General Public License v3.0 (GPL-
 
 ## 8. **Data Collection and Privacy**
 
-- K9's Little Helper collects the bot's settings for Discord guilds (servers) and users, the user IDs of users who opted out with `/ignore-me`, and records of the messages it sends as fixes. The content of your messages is not stored in the bot's database. A full description of the data collected, how it is used, and how long it is kept can be found in the [Privacy Policy](https://github.com).
+- K9's Little Helper collects the bot's settings for Discord guilds (servers) and users, the user IDs of users who opted out with `/ignore-me`, and records of the messages it sends as fixes. The content of your messages is not stored in the bot's database. A full description of the data collected, how it is used, and how long it is kept can be found in the [Privacy Policy]([https://github.com](https://github.com/K9TheGoat/Limitless-Public/blob/main/PRIVACY.md)).
 - If you wish to have your data removed from the bot's database, please contact me using the contact details provided below.
 
 ## 9. **Support and Contact Information**
