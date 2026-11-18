@@ -2,11 +2,11 @@
 
 ## 1. **Introduction**
 
-Welcome to **K9's Little Helper**! This software is a self-hosted Discord bot based on the open-source [Embed Fixer](https://github.com) project by seriaati, designed to fix social media embeds on Discord. By using or contributing to this software, you agree to comply with the terms and conditions outlined in this document.
+Welcome to **K9's Little Helper**! This software is a self-hosted Discord bot based on the open-source [Embed Fixer](https://github.com/seriaati/embed-fixer) project by seriaati, designed to fix social media embeds on Discord. By using or contributing to this software, you agree to comply with the terms and conditions outlined in this document.
 
 ## 2. **License**
 
-K9's Little Helper is licensed under the **GNU General Public License v3.0 (GPL-3.0)**. You can view the full text of the license [here](https://github.com).
+K9's Little Helper is licensed under the **GNU General Public License v3.0 (GPL-3.0)**. You can view the full text of the license [here](https://github.com/K9TheGoat/Limitless-Public/blob/main/LICENSE).
 
 ## 3. **Usage and Restrictions**
 
